@@ -29,7 +29,7 @@ Durante esse projeto, tive meu primeiro contato com a biblioteca GSAP. Descobri 
 
 ## 📁 Como rodar o projeto
 1. Clone este repositório:
- git clone https://github.com/seu-usuario/nome-do-repositorio.git
+ git clone https://github.com/ggddev/Fanta.git
 2. Navegue até a pasta:
  cd nome-do-repositorio
 3. Abra o arquivo index.html no seu navegador.
