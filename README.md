@@ -36,6 +36,10 @@ Durante esse projeto, tive meu primeiro contato com a biblioteca GSAP. Descobri 
 Não é necessário instalar dependências, pois todas as bibliotecas estão sendo puxadas via CDN.
 
 
+## 🍊 Onde ver o projeto funcionando
+👉 [https://ggddev.github.io/Fanta/](https://ggddev.github.io/Fanta/)
+
+
 ## 🔧 Melhorias Futuras
 - Tornar o site responsivo para dispositivos móveis
 - Implementar um carrinho de compras funcional
